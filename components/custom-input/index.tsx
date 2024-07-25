@@ -28,7 +28,7 @@ const CustomInput: ForwardRefRenderFunction<HTMLInputElement, InputType> = (
         name={name}
         id={id}
         aria-labelledby=""
-        className="border-gray-500 border-2 focus:outline-none focus:bg-gray-100 px-4"
+        className="border-gray-500 border-2 focus:outline-none focus:bg-gray-300 px-4"
       />
     </>
   );
